@@ -1,4 +1,5 @@
-Daniel Batista - Engenharia de Software - UnB
+Daniel Batista
+Engenharia de Software - UnB
 <br />
 
 <div align="left">
