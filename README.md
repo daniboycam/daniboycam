@@ -21,7 +21,7 @@ Daniel Batista
   <a href="mailto:danielbatista1908112@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  <a href="https:linkedin.com/in/daniel-batista-2687452b8/" target="_blank">
+  <a href="https://linkedin.com/in/daniel-batista-2687452b8/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
