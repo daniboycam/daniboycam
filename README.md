@@ -4,7 +4,7 @@ Daniel Batista
 Engenharia de Software - UnB
 <br />
 
-### 💻 Linguagens
+### Linguagens
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -17,7 +17,7 @@ Engenharia de Software - UnB
 
 <br />
 
-### 🛠️ Frameworks e Ferramentas
+### Frameworks e Ferramentas
 <div align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
@@ -28,7 +28,7 @@ Engenharia de Software - UnB
 
 <br />
 
-### 📫 Formas de Contato
+### Formas de Contato
 <div align="left">
   <a href="https://www.instagram.com/_daniel.batistaaa/" target="_blank">
     <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
